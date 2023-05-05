@@ -15,6 +15,7 @@
 	<?php echo "<h3>This is Docker Compose Class!</h3>"; ?>
 	<?php echo "<h3>This is Docker Compose Class!</h3>"; ?>
 	<?php echo "<h3>This is Docker Compose Class!</h3>"; ?>
+	<?php echo "<h3>hello!</h3>"; ?>
 	    
     <?php
     $conn = mysqli_connect('db', 'ranjit', 'ranjit', "myDb");
