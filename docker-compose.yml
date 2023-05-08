@@ -7,8 +7,8 @@ services:
             - "80:80"
         volumes:
             - ./www:/var/www/html/
-        links:
-            - db
+#         links:
+#             - db
         networks:
             - default
 #     db:
