@@ -18,7 +18,7 @@
 	<?php echo "<h3>hello!</h3>"; ?>
 	<?php echo "<h3>hello!</h3>"; ?>
 	    
-    <?php
+<!--     <?php
     $conn = mysqli_connect('db', 'ranjit', 'ranjit', "myDb");
     $query = 'SELECT * From Person';
     $result = mysqli_query($conn, $query);
@@ -35,7 +35,7 @@
     echo '</table>';
     $result->close();
     mysqli_close($conn);
-    ?>
+    ?> -->
     </div>
 </body>
 </html>
