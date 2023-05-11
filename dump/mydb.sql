@@ -12,5 +12,5 @@ INSERT INTO `Person` (`id`, `name`) VALUES
 (2, 'Rakesh'),
 (3, 'Dinesh'),
 (4, 'Karthik'),
-(5, 'usama'),
+# (5, 'usama'),
 (6, 'hamza');
